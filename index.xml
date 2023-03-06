@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My personal site</title>
+        <title>Acr0nim0 Blog</title>
         <link>https://francosalvucci14.github.io/</link>
-        <description>My personal site</description>
+        <description>Acr0nim0 Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
-            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Mar 2023 14:08:43 &#43;0100</lastBuildDate>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Mar 2023 15:30:34 &#43;0100</lastBuildDate>
             <atom:link href="https://francosalvucci14.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Lorem Ipsum</title>
