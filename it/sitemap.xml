@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://francosalvucci14.github.io/it/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://francosalvucci14.github.io/it/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://francosalvucci14.github.io/"
@@ -10,6 +10,54 @@
                     rel="alternate"
                     hreflang="it"
                     href="https://francosalvucci14.github.io/it/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/it/tags/me/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://francosalvucci14.github.io/tags/me/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://francosalvucci14.github.io/it/tags/me/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/it/posts/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://francosalvucci14.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://francosalvucci14.github.io/it/posts/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/it/tags/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://francosalvucci14.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://francosalvucci14.github.io/it/tags/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/it/tags/universit%C3%A0/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/it/universita/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/it/testit/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/it/tags/biografy/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://francosalvucci14.github.io/tags/biografy/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://francosalvucci14.github.io/it/tags/biografy/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/it/aboutme/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://francosalvucci14.github.io/aboutme/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://francosalvucci14.github.io/it/aboutme/"
                     /></url><url>
             <loc>https://francosalvucci14.github.io/it/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -19,13 +67,4 @@
                     rel="alternate"
                     hreflang="it"
                     href="https://francosalvucci14.github.io/it/categories/"
-                    /></url><url>
-            <loc>https://francosalvucci14.github.io/it/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://francosalvucci14.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="it"
-                    href="https://francosalvucci14.github.io/it/tags/"
                     /></url></urlset>

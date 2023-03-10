@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://francosalvucci14.github.io/</loc><lastmod>2023-03-04T16:21:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://francosalvucci14.github.io/aboutme/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://francosalvucci14.github.io/it/aboutme/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://francosalvucci14.github.io/aboutme/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
                         href="https://francosalvucci14.github.io/it/"
@@ -11,11 +20,25 @@
                     hreflang="en"
                     href="https://francosalvucci14.github.io/"
                     /></url><url>
-            <loc>https://francosalvucci14.github.io/tags/biografy/</loc><lastmod>2023-03-04T16:21:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/it/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/tags/me/</loc><lastmod>2023-03-04T16:21:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/it/aboutme_it/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/tags/</loc><lastmod>2023-03-04T16:21:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://francosalvucci14.github.io/tags/biografy/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://francosalvucci14.github.io/it/tags/biografy/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://francosalvucci14.github.io/tags/biografy/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/tags/me/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://francosalvucci14.github.io/it/tags/me/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://francosalvucci14.github.io/tags/me/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/tags/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
                         href="https://francosalvucci14.github.io/it/tags/"
@@ -24,13 +47,18 @@
                     hreflang="en"
                     href="https://francosalvucci14.github.io/tags/"
                     /></url><url>
-            <loc>https://francosalvucci14.github.io/loremipsum/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/posts/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/aboutme/</loc><lastmod>2023-03-04T16:21:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/it/posts/it/diocane/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/post2/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/tags/prova/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://francosalvucci14.github.io/tags/test/</loc><lastmod>2023-03-04T16:10:39&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/post2/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/posts/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://francosalvucci14.github.io/it/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://francosalvucci14.github.io/posts/"
+                    /></url><url>
+            <loc>https://francosalvucci14.github.io/tags/prova/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://francosalvucci14.github.io/tags/test/</loc><lastmod>2023-03-10T15:20:10&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://francosalvucci14.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"

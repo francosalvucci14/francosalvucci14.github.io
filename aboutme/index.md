@@ -20,7 +20,7 @@ These are my skills:
     - Java
     - C
     - Html/Css/Javascript/JQuery (a little bit)
-    - Latex
+    - LaTeX
     - SQL
 - IDE I use:
     - [Visual Studio Code](https://code.visualstudio.com/)
@@ -45,4 +45,10 @@ here they are:
 Yeah, I forgot PHP, but let's face it, who the f*ck likes PHP, let's be real
 (But yeah, I know PHP too)
 
-
+{{< typeit code=java >}}
+public class HelloWorld {
+    public static void main(String []args) {
+        System.out.println("Hello World");
+    }
+}
+{{< /typeit >}}

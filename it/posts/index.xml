@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Acr0nim0 Blog</title>
-        <link>https://francosalvucci14.github.io/it/</link>
-        <description>Acr0nim0 Blog</description>
+        <title>Tutti Articoli - Acr0nim0 Blog</title>
+        <link>https://francosalvucci14.github.io/it/posts/</link>
+        <description>Tutti Articoli | Acr0nim0 Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
-            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Mar 2023 14:44:44 &#43;0100</lastBuildDate>
-            <atom:link href="https://francosalvucci14.github.io/it/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Mar 2023 14:44:44 &#43;0100</lastBuildDate><atom:link href="https://francosalvucci14.github.io/it/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Università</title>
     <link>https://francosalvucci14.github.io/it/universita/</link>
     <pubDate>Fri, 10 Mar 2023 14:44:44 &#43;0100</pubDate>
