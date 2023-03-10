@@ -46,9 +46,9 @@ Yeah, I forgot PHP, but let's face it, who the f*ck likes PHP, let's be real
 (But yeah, I know PHP too)
 
 {{< typeit code=java >}}
-public class HelloWorld {
+public class PHPSuck {
     public static void main(String []args) {
-        System.out.println("PHP sucks");
+        System.out.println("PHP suck");
     }
 }
 {{< /typeit >}}
