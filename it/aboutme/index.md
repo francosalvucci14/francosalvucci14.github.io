@@ -42,12 +42,12 @@ Eccoli:
 
 # Oh,yeah...
 
-Sì, ho dimenticato PHP, ma ammettiamolo, a chi cazzo piace PHP, siamo reali
+Sì, ho dimenticato PHP, ma ammettiamolo, a chi cazzo piace PHP, siamo realistici
 (Ma sì, conosco anche PHP)
 {{< typeit code=java >}}
 public class HelloWorld {
     public static void main(String []args) {
-        System.out.println("Hello World");
+        System.out.println("PHP fa schifo");
     }
 }
 {{< /typeit >}}
