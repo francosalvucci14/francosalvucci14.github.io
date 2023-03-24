@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Me - Tag - Acr0nim0 Blog</title>
+        <link>https://francosalvucci14.github.io/tags/me/</link>
+        <description>Me - Tag - Acr0nim0 Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Mar 2023 14:02:03 &#43;0100</lastBuildDate><atom:link href="https://francosalvucci14.github.io/tags/me/" rel="self" type="application/rss+xml" /><item>
+    <title>About me</title>
+    <link>https://francosalvucci14.github.io/aboutme/</link>
+    <pubDate>Sat, 04 Mar 2023 14:02:03 &#43;0100</pubDate>
+    <author>Franco Salvucci</author>
+    <guid>https://francosalvucci14.github.io/aboutme/</guid>
+    <description><![CDATA[Me Hi, I&rsquo;m Salvucci Franco. I am a student of the Faculty of Computer Science at Tor Vergata University
+I have always been passionate about the world of programming and information technology in general (both on the software and hardware side, but more so on software :))
+I love experimenting with new technologies (like this one here, aka Hugo) and always try new design/programming/etc challenges&hellip;
+Currently I am particularly interested in the world of Algorithms, in fact I will probably focus my thesis on this]]></description>
+</item>
+</channel>
+</rss>

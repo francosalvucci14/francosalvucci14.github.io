@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Acr0nim0 Blog</title>
+        <link>https://francosalvucci14.github.io/it/</link>
+        <description>Acr0nim0 Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Mar 2023 09:53:53 &#43;0100</lastBuildDate>
+            <atom:link href="https://francosalvucci14.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Università</title>
+    <link>https://francosalvucci14.github.io/it/universit%C3%A0/</link>
+    <pubDate>Mon, 20 Mar 2023 09:53:53 &#43;0100</pubDate>
+    <author>Franco Salvucci</author>
+    <guid>https://francosalvucci14.github.io/it/universit%C3%A0/</guid>
+    <description><![CDATA[L&rsquo;università Le difficoltà Pensieri e consigli ]]></description>
+</item>
+<item>
+    <title>Bank App</title>
+    <link>https://francosalvucci14.github.io/it/bankapp/</link>
+    <pubDate>Fri, 10 Mar 2023 14:44:44 &#43;0100</pubDate>
+    <author>Franco Salvucci</author>
+    <guid>https://francosalvucci14.github.io/it/bankapp/</guid>
+    <description><![CDATA[Idea L&rsquo;idea mi è venuta totalmente random, mentre non facevo un bel niente 😂 Ho visto qualche video su youtube e mi sono deciso di approcciarmi a questa &ldquo;challenge&rdquo; (mettiamola tra virgolette perchè poi si vedrà che non è una vera e propria challenge) L&rsquo;idea che sta alla base è molto semplice, un&rsquo;interfaccia (chiamiamola HOME) dove ci sono i collegamenti alle altre interfacce : Prelievo, Deposito, Show Utenti e cos' via&hellip;]]></description>
+</item>
+</channel>
+</rss>
