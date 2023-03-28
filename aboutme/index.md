@@ -4,7 +4,7 @@
 Hi, I'm Salvucci Franco.
 I am a student of the Faculty of Computer Science at Tor Vergata University
 
-I have always been passionate about the world of programming and information technology in general (both on the software and hardware side, but more so on software :))
+I have always been passionate about the world of programming and information technology in general (both on the software and hardware side, but more so on software :smile:)
 
 I love experimenting with new technologies (like this one here, aka Hugo)
 and always try new design/programming/etc challenges...
@@ -16,10 +16,10 @@ These are my skills:
 
 - Languages I know:
     - C#
-    - Python
-    - Java
+    - <i class="fa-brands fa-python"></i> Python
+    - <i class="fa-brands fa-java"></i> Java
     - C
-    - Html/Css/Javascript/JQuery (a little bit)
+    - <i class="fa-brands fa-html5"></i> Html/<i class="fa-brands fa-css3"></i> Css/<i class="fa-brands fa-js"></i> Javascript/JQuery (a little bit)
     - LaTeX
     - SQL
 - IDE I use:
