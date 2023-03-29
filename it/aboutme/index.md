@@ -4,29 +4,35 @@
 Ciao, sono Salvucci Franco.
 Sono uno studente della Facoltà di Informatica dell'Università di Tor Vergata
 
-Sono sempre stato appassionato del mondo della programmazione e dell'informatica in generale (sia lato software che hardware, ma soprattutto software :))
+Sono sempre stato appassionato del mondo della programmazione e dell'informatica in generale (sia lato software che hardware, ma soprattutto software :smile:)
 
-Adoro sperimentare nuove tecnologie (come questa qui, alias Hugo)
-e prova sempre nuove sfide di progettazione/programmazione/ecc...
+Adoro sperimentare nuove tecnologie (come questa qui, ovvero Hugo) e adoro cimentarmi sempre in nuove sfide di progettazione/programmazione/ecc... 
 
-Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti probabilmente focalizzerò la mia tesi su questo
+Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti probabilmente focalizzerò la mia tesi su questo (ma per ora tralasciamo questo dettaglio, c'è ancora un bel pò di tempo per pensare a quello...)<br/>
+**P.S** :  Dai un'occhiata al post che ho fatto sull'università, dove racconto la mia esperienza personale, i miei dubbi, le mie paure e i miei consigli per i ragazzi appena iscritti -> [Università]({{< ref "posts/Università.it.md" >}})
+
+Non so cosa altro dire, quindi direi che va bene così
 
 # Skills
 Queste sono le mie competenze:
 
 - Linguaggi che conosco:
     - C#
-    - Python
-    - Java
+    - <i class="fa-brands fa-python"></i> Python
+    - <i class="fa-brands fa-java"></i> Java
     - C
-    - Html/Css/Javascript/JQuery (un pò)
+    - <i class="fa-brands fa-html5"></i>/<i class="fa-brands fa-css3"></i>/<i class="fa-brands fa-js"></i>/JQuery (un pò)
     - LaTeX
     - SQL
+    - <i class="fa-brands fa-markdown"></i> Markdown
 - IDE che uso:
     - [Visual Studio Code](https://code.visualstudio.com/)
     - [Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/older-downloads/)
     - [Ecplise](https://www.eclipse.org/downloads/)
     - [SQL developer](https://www.oracle.com/it/database/sqldeveloper/) (**SI** lo so che non è un IDE, ma un'interfaccia grafica per il Db Oracle, ma non mi importa 😄)
+
+Sto anche imparando ad usare linux <i class="fa-brands fa-linux"></i> tramite il sistema operativo Pop!_os
+
 # Foto mia
 
 [Link qui](https://staticfanpage.akamaized.net/wp-content/uploads/sites/6/2021/11/bambino-sconsolato-hasbulla-1200x675.jpg)
@@ -36,9 +42,11 @@ Queste sono le mie competenze:
 Ho realizzato vari software, a tempo perso, che mi hanno permesso di approfondire la conoscenza di vari linguaggi (C# e SQL in particolare)
 Eccoli:
 
-- [FlappyBird C# Version](https://github.com/francosalvucci14/FlappyBird-CS)
-- [Blood Bank Management System App](https://github.com/francosalvucci14/BloodBank_ManagementSystem)
-- [Bank App](https://github.com/francosalvucci14/Bank-App)
+- [FlappyBird C# Version](https://github.com/francosalvucci14/FlappyBird-CS) sviluppato in C# e SQL
+- [Blood Bank Management System App](https://github.com/francosalvucci14/BloodBank_ManagementSystem) sviluppato in C# e SQL
+- [Bank App](https://github.com/francosalvucci14/Bank-App) sviluppato in <i class="fa-brands fa-java"></i> Java
+- CryptoTool sviluppato in C#
+- PortScanner sviluppato in <i class="fa-brands fa-java"></i> Java (funziona solo in locale, ovviamente)
 
 # Oh,yeah...
 

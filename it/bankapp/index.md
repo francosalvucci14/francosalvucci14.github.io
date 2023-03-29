@@ -24,15 +24,15 @@ Link qui --> [Bank App](https://github.com/francosalvucci14/Bank-App)
 
 Queste sono gli screenshots delle varie interfacce<br/>
 Home Page:<br/>
-![Home](/images/BankApp/Home.png)<br/>
+{{< figure src="/images/BankApp/Home.png" title="Home page" >}}<br/>
 Cambio Dettagli Account:<br/>
-![Cambio Dettagli Account](/images/BankApp/ChangeAccountDet.png)<br/>
+{{< figure src="/images/BankApp/ChangeAccountDet.png" title="Cambia Dettagli Account" >}}<br/>
 Prelievo:<br/>
-![Prelievo](/images/BankApp/Prelievo.png)<br/>
+{{< figure src="/images/BankApp/Prelievo.png" title="Prelievo" >}}<br/>
 Registra Utente:<br/>
-![Registra Utente](/images/BankApp/RegisterUser.png)<br/>
+{{< figure src="/images/BankApp/RegisterUser.png" title="Registra Utenti" >}}<br/>
 Show degli utenti:<br/>
-![Vedi utenti](/images/BankApp/ShowUser.png)<br/>
+{{< figure src="/images/BankApp/ShowUser.png" title="Ricerca Utenti" >}}<br/>
 
 # Database
 Il database è stato realizzato su DBMS **MySql**, ed è organizzato in questo modo:
