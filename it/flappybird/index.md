@@ -9,6 +9,8 @@ asdasd
 
 # Gameplay
 
+{{< youtube e0Y03FhnULg >}}
+
 # Codice
 
 

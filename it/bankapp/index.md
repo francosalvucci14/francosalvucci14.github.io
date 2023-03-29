@@ -3,8 +3,11 @@
 
 # Idea
 L'idea mi è venuta totalmente random, mentre non facevo un bel niente :joy:
+
 Ho visto qualche video su youtube e mi sono deciso di approcciarmi a questa "challenge" (mettiamola tra virgolette perchè poi si vedrà che non è una vera e propria challenge)
+
 L'idea che sta alla base è molto semplice, un'interfaccia (chiamiamola HOME) dove ci sono i collegamenti alle altre interfacce : Prelievo, Deposito, Show Utenti e cos' via...
+
 # Servizi
 I servizi offerti da questa app sono :
 - Prelievo dei soldi dal conto
@@ -24,7 +27,7 @@ Link qui --> [Bank App](https://github.com/francosalvucci14/Bank-App)
 
 Queste sono gli screenshots delle varie interfacce<br/>
 Home Page:<br/>
-{{< figure src="/images/BankApp/Home.png" title="Home page" >}}<br/>
+{{< figure src="/images/BankApp/Home.png" title="Home page" alt="Home">}}<br/>
 Cambio Dettagli Account:<br/>
 {{< figure src="/images/BankApp/ChangeAccountDet.png" title="Cambia Dettagli Account" >}}<br/>
 Prelievo:<br/>

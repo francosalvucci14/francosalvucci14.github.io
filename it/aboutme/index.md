@@ -9,6 +9,7 @@ Sono sempre stato appassionato del mondo della programmazione e dell'informatica
 Adoro sperimentare nuove tecnologie (come questa qui, ovvero Hugo) e adoro cimentarmi sempre in nuove sfide di progettazione/programmazione/ecc... 
 
 Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti probabilmente focalizzerò la mia tesi su questo (ma per ora tralasciamo questo dettaglio, c'è ancora un bel pò di tempo per pensare a quello...)<br/>
+
 **P.S** :  Dai un'occhiata al post che ho fatto sull'università, dove racconto la mia esperienza personale, i miei dubbi, le mie paure e i miei consigli per i ragazzi appena iscritti -> [Università]({{< ref "posts/Università.it.md" >}})
 
 Non so cosa altro dire, quindi direi che va bene così
@@ -21,7 +22,7 @@ Queste sono le mie competenze:
     - <i class="fa-brands fa-python"></i> Python
     - <i class="fa-brands fa-java"></i> Java
     - C
-    - <i class="fa-brands fa-html5"></i>/<i class="fa-brands fa-css3"></i>/<i class="fa-brands fa-js"></i>/JQuery (un pò)
+    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]/<i class="fa-brands fa-js"></i>/JQuery (un pò)
     - LaTeX
     - SQL
     - <i class="fa-brands fa-markdown"></i> Markdown
