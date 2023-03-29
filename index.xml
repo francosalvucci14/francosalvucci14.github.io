@@ -4,9 +4,19 @@
         <link>https://francosalvucci14.github.io/</link>
         <description>Acr0nim0 Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
-            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Mar 2023 09:55:54 &#43;0100</lastBuildDate>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 29 Mar 2023 17:05:28 &#43;0200</lastBuildDate>
             <atom:link href="https://francosalvucci14.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>FlappyBird</title>
+    <link>https://francosalvucci14.github.io/flappybird/</link>
+    <pubDate>Wed, 29 Mar 2023 17:05:28 &#43;0200</pubDate>
+    <author>Franco Salvucci</author>
+    <guid>https://francosalvucci14.github.io/flappybird/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/FlappyBird/FlappyScreen.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item>
+<item>
     <title>University</title>
     <link>https://francosalvucci14.github.io/universit%C3%A0/</link>
     <pubDate>Mon, 20 Mar 2023 09:55:54 &#43;0100</pubDate>
