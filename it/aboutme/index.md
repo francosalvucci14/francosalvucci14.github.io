@@ -48,7 +48,7 @@ Eccoli:
 - CryptoTool sviluppato in C#
 - PortScanner sviluppato in <i class="fa-brands fa-java"></i> Java (funziona solo in locale, ovviamente)
 
-# Oh,yeah...
+# Ops...
 
 Sì, ho dimenticato PHP, ma ammettiamolo, a chi cazzo piace PHP, siamo realistici
 (Ma sì, conosco anche PHP)
