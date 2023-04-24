@@ -11,7 +11,7 @@ Attualmente, tutte le funzioni che si interessano di calcolare quale tra gli ann
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://francosalvucci14.github.io/it/webscraper/" /><meta property="og:image" content="https://francosalvucci14.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-04-24T12:57:30+02:00" />
-<meta property="article:modified_time" content="2023-04-24T13:03:52+02:00" /><meta property="og:site_name" content="Acr0nim0 Blog" />
+<meta property="article:modified_time" content="2023-04-24T16:20:25+02:00" /><meta property="og:site_name" content="Acr0nim0 Blog" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://francosalvucci14.github.io/logo.png"/>
@@ -32,8 +32,8 @@ Attualmente, tutte le funzioni che si interessano di calcolare quale tra gli ann
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/francosalvucci14.github.io\/it\/webscraper\/"
-        },"image": ["https:\/\/francosalvucci14.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Project, WebScraper, Python, Csv","wordcount":  805 ,
-        "url": "https:\/\/francosalvucci14.github.io\/it\/webscraper\/","datePublished": "2023-04-24T12:57:30+02:00","dateModified": "2023-04-24T13:03:52+02:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+        },"image": ["https:\/\/francosalvucci14.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Project, WebScraper, Python, Csv","wordcount":  882 ,
+        "url": "https:\/\/francosalvucci14.github.io\/it\/webscraper\/","datePublished": "2023-04-24T12:57:30+02:00","dateModified": "2023-04-24T16:20:25+02:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "Franco Salvucci","logo": "https:\/\/francosalvucci14.github.io\/images\/user.png"},"author": {
                 "@type": "Person",
@@ -112,8 +112,8 @@ Attualmente, tutte le funzioni che si interessano di calcolare quale tra gli ann
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">WebScraper</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/it/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Franco Salvucci</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-04-24">2023-04-24</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;805 parole&nbsp;
-                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;4 minuti&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-04-24">2023-04-24</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;882 parole&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;5 minuti&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
                     <span>Contenuti</span>
@@ -122,7 +122,15 @@ Attualmente, tutte le funzioni che si interessano di calcolare quale tra gli ann
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#idea">Idea</a></li>
-    <li><a href="#codice">Codice</a></li>
+    <li><a href="#codice">Codice</a>
+      <ul>
+        <li><a href="#ps">P.S</a>
+          <ul>
+            <li><a href="#p-p-s">P. P. S</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
     <li><a href="#video">Video</a></li>
   </ul>
 </nav></div>
@@ -309,11 +317,6 @@ Le librerie utilizzate sono state :</p>
 </span><span class="lnt">110
 </span><span class="lnt">111
 </span><span class="lnt">112
-</span><span class="lnt">113
-</span><span class="lnt">114
-</span><span class="lnt">115
-</span><span class="lnt">116
-</span><span class="lnt">117
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Importare moduli</span>
@@ -369,8 +372,9 @@ Le librerie utilizzate sono state :</p>
     <span class="n">locali_tot</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="n">price_tot</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="n">cycle</span> <span class="o">=</span> <span class="n">SearchNumberOfElements</span><span class="p">(</span><span class="n">arg_type</span><span class="p">,</span><span class="n">arg_zone</span><span class="p">)</span>
-    <span class="nb">print</span><span class="p">(</span><span class="n">cycle</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Numeri di elementi trovati : </span><span class="si">{</span><span class="n">cycle</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
     <span class="n">pagine</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">ceil</span><span class="p">(</span><span class="n">cycle</span><span class="o">/</span><span class="mi">25</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Inizio scansione e raccolta dati&#34;</span><span class="p">)</span>
     <span class="k">if</span> <span class="n">pagine</span>  <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
         <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&#34;https://www.immobiliare.it/vendita-</span><span class="si">{</span><span class="n">arg_type</span><span class="si">}</span><span class="s2">/roma/</span><span class="si">{</span><span class="n">arg_zone</span><span class="si">}</span><span class="s2">/?criterio=rilevanza&amp;noAste=1&#34;</span>
         <span class="nb">print</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
@@ -405,11 +409,9 @@ Le librerie utilizzate sono state :</p>
             <span class="n">locali_html</span> <span class="o">=</span> <span class="n">html</span><span class="o">.</span><span class="n">find_all</span><span class="p">(</span><span class="s1">&#39;a&#39;</span><span class="p">,</span> <span class="n">class_</span><span class="o">=</span><span class="s2">&#34;in-card__title&#34;</span><span class="p">)</span>
             <span class="n">price_html</span> <span class="o">=</span> <span class="n">html</span><span class="o">.</span><span class="n">find_all</span><span class="p">(</span>
                 <span class="s1">&#39;li&#39;</span><span class="p">,</span> <span class="n">class_</span><span class="o">=</span><span class="s2">&#34;nd-list__item in-feat__item in-feat__item--main in-realEstateListCard__features--main&#34;</span><span class="p">)</span>
-            <span class="c1"># Raccogliere le citazioni in un elenco</span>
             <span class="n">locali</span> <span class="o">=</span> <span class="nb">list</span><span class="p">()</span>
             <span class="k">for</span> <span class="n">locale</span> <span class="ow">in</span> <span class="n">locali_html</span><span class="p">:</span>
                 <span class="n">locali</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">locale</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
-            <span class="c1"># Raccogliere gli autori in un elenco</span>
             <span class="n">prices</span> <span class="o">=</span> <span class="nb">list</span><span class="p">()</span>
             <span class="k">for</span> <span class="n">price</span> <span class="ow">in</span> <span class="n">price_html</span><span class="p">:</span>
                 <span class="n">prices</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">price</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
@@ -417,31 +419,40 @@ Le librerie utilizzate sono state :</p>
             <span class="n">locali_tot</span> <span class="o">+=</span> <span class="n">locali</span>
             <span class="n">price_tot</span> <span class="o">+=</span> <span class="n">prices</span>
 
-    <span class="k">return</span> <span class="n">locali_tot</span><span class="p">,</span> <span class="n">price_tot</span>
+    <span class="k">return</span> <span class="n">locali_tot</span><span class="p">,</span> <span class="n">price_tot</span><span class="p">,</span><span class="n">arg_type</span>
 
 
-<span class="n">locali</span><span class="p">,</span> <span class="n">prezzi</span> <span class="o">=</span> <span class="n">search</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
+<span class="n">locali</span><span class="p">,</span> <span class="n">prezzi</span><span class="p">,</span><span class="n">tipo_immobile</span> <span class="o">=</span> <span class="n">search</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
 <span class="n">somma_prezzi</span><span class="p">,</span> <span class="n">count_locali</span><span class="p">,</span> <span class="n">media_prezzo</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span>
-<span class="c1"># for i in range(len(prezzi)):</span>
-<span class="c1">#     prezzi[i] = prezzi[i].replace(&#34;€&#34;,&#34;&#34;)</span>
-<span class="c1">#     print(prezzi[i])</span>
-<span class="c1">#     somma_prezzi+=float(prezzi[i])</span>
-<span class="c1">#     count_locali+=1</span>
-<span class="c1"># print(somma_prezzi)</span>
-<span class="c1"># media_prezzo = somma_prezzi/count_locali</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Elaboro csv personalizzato&#34;</span><span class="p">)</span>
 <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s1">&#39;Locali&#39;</span><span class="p">:</span> <span class="n">locali</span><span class="p">,</span> <span class="s1">&#39;Prezzi&#39;</span><span class="p">:</span> <span class="n">prezzi</span><span class="p">,</span>
                   <span class="s1">&#39;Media prezzo:&#39;</span><span class="p">:</span> <span class="n">media_prezzo</span><span class="p">})</span>
-<span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;Immobiliare.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+<span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Immobiliare_</span><span class="si">{</span><span class="n">tipo_immobile</span><span class="si">}</span><span class="s1">.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Fine elaborazione.&#34;</span><span class="p">)</span>
 
 </code></pre></td></tr></table>
 </div>
-</div><h1 id="video">Video</h1>
+</div><h2 id="ps">P.S</h2>
+<p>Piccolo reminder:
+Si ricorda che lo scraping di dati online è del tutto LEGALE, la cosa imporatate è che bisogna rimanere entra un certo range di scansioni al giorni, ma per il resto è tutto legale dato che dal momento che un certo dato viene pubblicato su un sito web, ogni persona può accedervi senza alcun problema.</p>
+<p>Grazie 😄</p>
+<h3 id="p-p-s">P. P. S</h3>
+<p>Lo scraper non è neanche alla sua versione beta, oserei dire che si torva nella versione gamma ancora 😄, pertanto ogni critica/modifica/consiglio è ben accetta/o</p>
+<h1 id="video">Video</h1>
+<p>Ecco in video per vedere lo scraper in azione
+Eseguito su SO Pop!_Os :</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube-nocookie.com/embed/KDAgw0NqcPo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Aggiornato il 2023-04-24&nbsp;<a class="git-hash" href="https://github.com/dillonzq/LoveIt/commit/0a50c53898517cfccda5fd81504cdb89fc633fa6" target="_blank" title="commit by francosalvucci14(francosalvucci14@gmail.com) 0a50c53898517cfccda5fd81504cdb89fc633fa6: Add WebScraper posts">
-                                    <i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>0a50c53</a></span>
+                <span>Aggiornato il 2023-04-24&nbsp;<a class="git-hash" href="https://github.com/dillonzq/LoveIt/commit/6ed664deefd60e31647f9d245df480bc650fdfbe" target="_blank" title="commit by francosalvucci14(francosalvucci14@gmail.com) 6ed664deefd60e31647f9d245df480bc650fdfbe: Apply some change to WebScraper posts">
+                                    <i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>6ed664d</a></span>
             </div></div>
         <div class="post-info-line">
             <div class="post-info-md"><span>

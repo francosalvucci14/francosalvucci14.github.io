@@ -106,8 +106,9 @@ def search(argv):
     locali_tot = []
     price_tot = []
     cycle = SearchNumberOfElements(arg_type,arg_zone)
-    print(cycle)
+    print(f"Numeri di elementi trovati : {cycle}")
     pagine = math.ceil(cycle/25)
+    print("Inizio scansione e raccolta dati")
     if pagine  == 1:
         url = f"https://www.immobiliare.it/vendita-{arg_type}/roma/{arg_zone}/?criterio=rilevanza&noAste=1"
         print(url)
@@ -142,11 +143,9 @@ def search(argv):
             locali_html = html.find_all('a', class_="in-card__title")
             price_html = html.find_all(
                 'li', class_="nd-list__item in-feat__item in-feat__item--main in-realEstateListCard__features--main")
-            # Raccogliere le citazioni in un elenco
             locali = list()
             for locale in locali_html:
                 locali.append(locale.text)
-            # Raccogliere gli autori in un elenco
             prices = list()
             for price in price_html:
                 prices.append(price.text)
@@ -154,22 +153,32 @@ def search(argv):
             locali_tot += locali
             price_tot += prices
 
-    return locali_tot, price_tot
+    return locali_tot, price_tot,arg_type
 
 
-locali, prezzi = search(sys.argv)
+locali, prezzi,tipo_immobile = search(sys.argv)
 somma_prezzi, count_locali, media_prezzo = 0, 0, 0
-# for i in range(len(prezzi)):
-#     prezzi[i] = prezzi[i].replace("€","")
-#     print(prezzi[i])
-#     somma_prezzi+=float(prezzi[i])
-#     count_locali+=1
-# print(somma_prezzi)
-# media_prezzo = somma_prezzi/count_locali
+
+print("Elaboro csv personalizzato")
 df = pd.DataFrame({'Locali': locali, 'Prezzi': prezzi,
                   'Media prezzo:': media_prezzo})
-df.to_csv('Immobiliare.csv', index=False, encoding='utf-8')
+df.to_csv(f'Immobiliare_{tipo_immobile}.csv', index=False, encoding='utf-8')
+print("Fine elaborazione.")
 
 ```
 
+## P.S 
+Piccolo reminder:
+Si ricorda che lo scraping di dati online è del tutto LEGALE, la cosa imporatate è che bisogna rimanere entra un certo range di scansioni al giorni, ma per il resto è tutto legale dato che dal momento che un certo dato viene pubblicato su un sito web, ogni persona può accedervi senza alcun problema.
+
+Grazie :smile:
+### P. P. S
+
+Lo scraper non è neanche alla sua versione beta, oserei dire che si torva nella versione gamma ancora :smile:, pertanto ogni critica/modifica/consiglio è ben accetta/o
 # Video
+
+Ecco in video per vedere lo scraper in azione
+Eseguito su SO Pop!_Os :
+
+{{< youtube KDAgw0NqcPo >}}
+
