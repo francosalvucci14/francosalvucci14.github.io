@@ -4,9 +4,17 @@
         <link>https://francosalvucci14.github.io/it/</link>
         <description>Acr0nim0 Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
-            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 29 Mar 2023 17:05:33 &#43;0200</lastBuildDate>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 24 Apr 2023 12:57:30 &#43;0200</lastBuildDate>
             <atom:link href="https://francosalvucci14.github.io/it/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>WebScraper</title>
+    <link>https://francosalvucci14.github.io/it/webscraper/</link>
+    <pubDate>Mon, 24 Apr 2023 12:57:30 &#43;0200</pubDate>
+    <author>Franco Salvucci</author>
+    <guid>https://francosalvucci14.github.io/it/webscraper/</guid>
+    <description><![CDATA[Idea L&rsquo;idea di questo progetto è venuta ad un mio compagno di corso, Simone Zheng. Il progetto è strutturato in questo modo. L&rsquo;idea è quella di creare uno scraper che vada ad analizzare e &ldquo;studiare&rdquo; i dati presenti sui siti di immobili, in modo da riuscire ad analizzare i vari annunci, selezionati per zona, e a calcolare quale tra le case/appartmenti in vendita conviene comprare e quali invece conviene non guardare proprio]]></description>
+</item>
+<item>
     <title>FlappyBird</title>
     <link>https://francosalvucci14.github.io/it/flappybird/</link>
     <pubDate>Wed, 29 Mar 2023 17:05:33 &#43;0200</pubDate>
