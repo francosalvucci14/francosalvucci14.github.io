@@ -22,7 +22,7 @@ Le librerie utilizzate sono state :
 
 Sono state implementate anche le funzioni per prendere in input, da terminale, dei valori che andranno a settare la zona di interesse e il tipo di immobile che si vuol cercare
 
-QUesto è stato realizzato in questo modo
+Questo è stato realizzato in questo modo
 
 ```python
 arg_zone = ""
@@ -167,7 +167,7 @@ print("Fine elaborazione.")
 
 ```
 
-## P.S 
+## P. S 
 Piccolo reminder:
 Si ricorda che lo scraping di dati online è del tutto LEGALE, la cosa imporatate è che bisogna rimanere entra un certo range di scansioni al giorni, ma per il resto è tutto legale dato che dal momento che un certo dato viene pubblicato su un sito web, ogni persona può accedervi senza alcun problema.
 
