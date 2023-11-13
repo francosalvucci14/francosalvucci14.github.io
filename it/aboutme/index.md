@@ -31,6 +31,10 @@ Queste sono le mie competenze:
     - [Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/older-downloads/)
     - [Ecplise](https://www.eclipse.org/downloads/)
     - [SQL developer](https://www.oracle.com/it/database/sqldeveloper/) (**SI** lo so che non è un IDE, ma un'interfaccia grafica per il Db Oracle, ma non mi importa 😄)
+- Altro:
+    - NeoVim
+    - <i class="fa-brands fa-git"></i> Git
+    - <i class="fa-brands fa-github"></i> GitHub
 
 Sto anche imparando ad usare linux <i class="fa-brands fa-linux"></i> tramite il sistema operativo Pop!_os
 

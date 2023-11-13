@@ -32,6 +32,10 @@ These are my skills:
     - [Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/older-downloads/)
     - [Ecplise](https://www.eclipse.org/downloads/)
     - [SQL developer](https://www.oracle.com/it/database/sqldeveloper/) (**YES** I know it's not an IDE, but a GUI interface to the Oracle Database, but I don't care 😄)
+- Other:
+    - NeoVim
+    - <i class="fa-brands fa-git"></i> Git
+    - <i class="fa-brands fa-github"></i> GitHub
 
 I'm also learning to use linux <i class="fa-brands fa-linux"></i> via the Pop!_os operating system
 # Photo of me
@@ -60,3 +64,4 @@ public class PHPSuck {
     }
 }
 {{< /typeit >}}
+
