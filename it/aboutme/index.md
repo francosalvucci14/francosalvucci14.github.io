@@ -22,9 +22,9 @@ Queste sono le mie competenze:
     - <i class="fa-brands fa-python"></i> Python
     - <i class="fa-brands fa-java"></i> Java
     - C
-    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]/<i class="fa-brands fa-js"></i>/JQuery (un pò)
-    - LaTeX
-    - SQL
+    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]/<i class="fa-brands fa-js"></i>
+    - $LaTeX$
+    - <i class="fa-solid fa-database"></i> SQL
     - <i class="fa-brands fa-markdown"></i> Markdown
 - IDE che uso:
     - [Visual Studio Code](https://code.visualstudio.com/)
