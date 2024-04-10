@@ -10,8 +10,10 @@
     <pubDate>Wed, 27 Sep 2023 10:30:14 &#43;0200</pubDate>
     <author>Franco Salvucci</author>
     <guid>https://francosalvucci14.github.io/it/database-project/</guid>
-    <description><![CDATA[Premessa ciao
-Codice Vedi la repository su Github Progetto Database]]></description>
+    <description><![CDATA[Intro Questo è il progetto che ho fatto, in collaborazione con i miei colleghi dell&rsquo;Università, per l&rsquo;esame di Basi di Dati e di Conoscenza (BDC)
+Il progetto rappresenta la realtà di una società di taxi (VroomA), che opera nel territorio di Roma
+Questo è solo il database, ovviamente sopra al database c&rsquo;è un&rsquo;interfaccia web per gli utenti e gli amministratori del sistema
+Obiettivi L&rsquo;obiettivo principale di questo sistema è permettere agli utenti di organizzare gli spostamenti tramite taxi a seconda delle proprie esigenze, del tipo di veicolo scelto e del costo della tratta scelta.]]></description>
 </item>
 <item>
     <title>WebScraper</title>
