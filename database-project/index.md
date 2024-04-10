@@ -67,7 +67,7 @@ Here we can see the diagrams of the database we created
 To see the code in detail, including the file for creating tables in SQL, and the file used for creating automatic insertions, refer to my Github repository
 [Database Project](https://github.com/francosalvucci14/Database_Project)
 
-### Inserimenti Automatici in Python
+### Automatic Insertions in Python
 
 ```python
 import random
