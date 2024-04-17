@@ -15,6 +15,12 @@ Currently I am particularly interested in the world of Algorithms, in fact I wil
 
 I don't know what else to say, so I'd say that's okay
 
+# My Badges
+
+- TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
+<br/>
+- HackTheBox <br/><a href = "https://app.hackthebox.com/profile/1873672">![Franco14](https://www.hackthebox.com/badge/image/1873672)</a><br/>
+
 # Skills
 These are my skills:
 
@@ -52,6 +58,7 @@ here they are:
 - [Bank App](https://github.com/francosalvucci14/Bank-App) developed in <i class="fa-brands fa-java"></i> Java
 - CryptoTool developed in C#
 - PortScanner developed in <i class="fa-brands fa-java"></i> Java (it only works locally, of course)
+
 # Oh,yeah...
 
 Yeah, I forgot PHP, but let's face it, who the f*ck likes PHP, let's be real

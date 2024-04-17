@@ -14,6 +14,12 @@ Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti p
 
 Non so cosa altro dire, quindi direi che va bene così
 
+# I miei badge
+
+- TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
+<br/>
+- HackTheBox <br/><a href = "https://app.hackthebox.com/profile/1873672">![Franco14](https://www.hackthebox.com/badge/image/1873672)</a><br/>
+
 # Skills
 Queste sono le mie competenze:
 
@@ -22,7 +28,8 @@ Queste sono le mie competenze:
     - <i class="fa-brands fa-python"></i> Python
     - <i class="fa-brands fa-java"></i> Java
     - C
-    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]/<i class="fa-brands fa-js"></i>
+    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]
+    - <i class="fa-brands fa-js"></i>
     - $LaTeX$
     - <i class="fa-solid fa-database"></i> SQL
     - <i class="fa-brands fa-markdown"></i> Markdown
@@ -57,6 +64,7 @@ Eccoli:
 
 Sì, ho dimenticato PHP, ma ammettiamolo, a chi cazzo piace PHP, siamo realistici
 (Ma sì, conosco anche PHP)
+
 {{< typeit code=java >}}
 public class PHPSchifo {
     public static void main(String []args) {
