@@ -19,7 +19,8 @@ I don't know what else to say, so I'd say that's okay
 
 - TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
 <br/>
-- HackTheBox <br/><a href = "https://app.hackthebox.com/profile/1873672">![Franco14](https://www.hackthebox.com/badge/image/1873672)</a><br/>
+<!--- HackTheBox <br/><a href = "https://app.hackthebox.com/profile/1873672">![Franco14](https://www.hackthebox.com/badge/image/1873672)</a><br/>-->
+- HackTheBox <br><a href="https://www.hackthebox.com/badge/image/1873672"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
 
 # Skills
 These are my skills:
@@ -29,7 +30,8 @@ These are my skills:
     - <i class="fa-brands fa-python"></i> Python
     - <i class="fa-brands fa-java"></i> Java
     - C
-    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]/<i class="fa-brands fa-js"></i>
+    - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]
+    - <i class="fa-brands fa-js"></i>
     - $LaTeX$
     - <i class="fa-solid fa-database"></i> SQL
     - <i class="fa-brands fa-markdown"></i> Markdown
