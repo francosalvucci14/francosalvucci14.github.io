@@ -18,7 +18,7 @@ Non so cosa altro dire, quindi direi che va bene così
 
 - TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
 <br/>
-- HackTheBox <br><a href="https://www.hackthebox.com/badge/image/1873672"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
+- HackTheBox <br><a href="https://app.hackthebox.com/profile/1873672"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
 
 # Skills
 Queste sono le mie competenze:
