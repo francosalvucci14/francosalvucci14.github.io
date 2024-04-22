@@ -1,4 +1,4 @@
-# Progetto DataBase
+# DataBase Project
 
 
 # Intro
@@ -584,3 +584,4 @@ This file generates 10K inserts for each table (some tables even have 20K or mor
 In this post I very briefly summarized everything we did for this project.
 
 If you want more information, or a more detailed report, I refer you to this file here [Final Relation](https://github.com/francosalvucci14/Database_Project/blob/main/documentazione/FaseTreCorretta.md)
+
