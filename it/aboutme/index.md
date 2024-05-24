@@ -16,9 +16,10 @@ Non so cosa altro dire, quindi direi che va bene così
 
 # I miei badge
 
-- TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
-<br/>
-- HackTheBox <br><a href="https://app.hackthebox.com/profile/1873672" target="_blank"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
+- TryHackMe **Badge del profilo** <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
+    - TryHackMe [Linux PrivEsc](https://tryhackme.com/SalvucciF14/badges/linux-privesc)
+    - TryHackMe [Hash Cracker](https://tryhackme.com/SalvucciF14/badges/hash-cracker)
+- HackTheBox **Badge del profilo**<br><a href="https://app.hackthebox.com/profile/1873672" target="_blank"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
 
 # Skills
 Queste sono le mie competenze:

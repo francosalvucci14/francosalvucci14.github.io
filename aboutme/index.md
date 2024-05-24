@@ -17,10 +17,11 @@ I don't know what else to say, so I'd say that's okay
 
 # My Badges
 
-- TryHackMe <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
+- TryHackMe **Profile Badge** <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
+    - TryHackMe [Linux PrivEsc](https://tryhackme.com/SalvucciF14/badges/linux-privesc)
+    - TryHackMe [Hash Cracker](https://tryhackme.com/SalvucciF14/badges/hash-cracker)
+- HackTheBox **Profile Badge** <br/><a href="https://app.hackthebox.com/profile/1873672" target="_blank"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a>
 <br/>
-<!--- HackTheBox <br/><a href = "https://app.hackthebox.com/profile/1873672">![Franco14](https://www.hackthebox.com/badge/image/1873672)</a><br/>-->
-- HackTheBox <br><a href="https://app.hackthebox.com/profile/1873672" target="_blank"><img src="https://www.hackthebox.com/badge/image/1873672" width="250"></img></a><br/>
 
 # Skills
 These are my skills:
