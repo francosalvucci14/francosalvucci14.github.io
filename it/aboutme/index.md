@@ -31,7 +31,7 @@ Queste sono le mie competenze:
     - C
     - [<i class="fa-brands fa-html5"></i>]/[<i class="fa-brands fa-css3"></i>]
     - <i class="fa-brands fa-js"></i>
-    - $LaTeX$
+    - $\LaTeX$
     - <i class="fa-solid fa-database"></i> SQL
     - <i class="fa-brands fa-markdown"></i> Markdown
 - IDE che uso:
