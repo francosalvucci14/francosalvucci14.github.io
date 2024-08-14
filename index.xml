@@ -4,17 +4,9 @@
         <link>https://francosalvucci14.github.io/</link>
         <description>Acr0nim0 Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>francosalvucci14@gmail.com (Franco Salvucci)</managingEditor>
-            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 Jun 2024 11:31:29 &#43;0200</lastBuildDate>
+            <webMaster>francosalvucci14@gmail.com (Franco Salvucci)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 27 Sep 2023 10:30:14 &#43;0200</lastBuildDate>
             <atom:link href="https://francosalvucci14.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>VDSI Exam WriteUp</title>
-    <link>https://francosalvucci14.github.io/vdsi-exam-writeup/</link>
-    <pubDate>Tue, 04 Jun 2024 11:31:29 &#43;0200</pubDate>
-    <author>Franco Salvucci</author>
-    <guid>https://francosalvucci14.github.io/vdsi-exam-writeup/</guid>
-    <description><![CDATA[Exam Enumeration Getting Reverse Shell Privilege Escalation Root Access ]]></description>
-</item>
-<item>
     <title>DataBase Project</title>
     <link>https://francosalvucci14.github.io/database-project/</link>
     <pubDate>Wed, 27 Sep 2023 10:30:14 &#43;0200</pubDate>
