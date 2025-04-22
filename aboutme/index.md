@@ -15,6 +15,13 @@ Currently I am particularly interested in the world of Algorithms, in fact I wil
 
 I don't know what else to say, so I'd say that's okay
 
+# Degree
+
+I graduated with a 100/110 grade in Three-year Computer Science from the University of Rome Tor Vergata.<br/>
+If you want to read my thesis see here :
+- My GitHub repository here -> [Thesis(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
+- My post on this website -> [Thesis]({{< ref "posts/Tesi_Triennale.en.md" >}})
+
 # My Badges
 
 - TryHackMe **Profile Badge** <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>

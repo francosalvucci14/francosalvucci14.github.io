@@ -14,6 +14,13 @@ Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti p
 
 Non so cosa altro dire, quindi direi che va bene così
 
+# Laurea
+
+Mi sono Laureato con votazione 100/110 in Informatica Triennale presso l'Università degli Studi di Roma Tor Vergata.<br/>
+Se vuoi leggere la mia tesi vedi qui :
+- La mia repository su GitHub -> [Tesi(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
+- Il mio post su questo sito -> [Tesi]({{< ref "posts/Tesi_Triennale.it.md" >}})
+
 # I miei badge
 
 - TryHackMe **Badge del profilo** <br/><script src="https://tryhackme.com/badge/2975155"></script><br/>
