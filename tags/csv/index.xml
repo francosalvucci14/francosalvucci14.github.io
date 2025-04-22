@@ -10,7 +10,9 @@
     <pubDate>Mon, 24 Apr 2023 12:57:30 &#43;0200</pubDate>
     <author>Franco Salvucci</author>
     <guid>https://francosalvucci14.github.io/webscraper/</guid>
-    <description><![CDATA[Idea Code Video ]]></description>
+    <description><![CDATA[Idea The idea for this project came from a classmate of mine, Simone Zheng.
+The idea is to create a scraper that goes to analyze and “study” the data on real estate sites, so as to be able to analyze the various listings, selected by area, and calculate which among the houses/apartments for sale is worth buying and which ones are better not to look at at all
+Currently, all the functions that are concerned with calculating which among the listings is the best, based on average salary, IRPEF and tc , are still under development]]></description>
 </item>
 </channel>
 </rss>

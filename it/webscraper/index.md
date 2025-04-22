@@ -164,20 +164,15 @@ df = pd.DataFrame({'Locali': locali, 'Prezzi': prezzi,
                   'Media prezzo:': media_prezzo})
 df.to_csv(f'Immobiliare_{tipo_immobile}.csv', index=False, encoding='utf-8')
 print("Fine elaborazione.")
-
 ```
 ### P. S 
 Piccolo reminder:
 Si ricorda che lo scraping di dati online è del tutto LEGALE, la cosa imporatate è che bisogna rimanere entra un certo range di scansioni al giorni, ma per il resto è tutto legale dato che dal momento che un certo dato viene pubblicato su un sito web, ogni persona può accedervi senza alcun problema.
 
 Grazie :smile:
+
 ### P. P. S
 
 Lo scraper non è neanche alla sua versione beta, oserei dire che si torva nella versione gamma ancora :smile:, pertanto ogni critica/modifica/consiglio è ben accetta/o
-# Video
 
-Ecco in video per vedere lo scraper in azione
-Eseguito su SO Pop!_Os :
-
-{{< youtube KDAgw0NqcPo >}}
 
