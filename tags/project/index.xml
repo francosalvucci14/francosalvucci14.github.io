@@ -25,15 +25,5 @@ Goals The main objective of this system is to allow users to organize travel by 
 The idea is to create a scraper that goes to analyze and “study” the data on real estate sites, so as to be able to analyze the various listings, selected by area, and calculate which among the houses/apartments for sale is worth buying and which ones are better not to look at at all
 Currently, all the functions that are concerned with calculating which among the listings is the best, based on average salary, IRPEF and tc , are still under development]]></description>
 </item>
-<item>
-    <title>BankApp</title>
-    <link>https://francosalvucci14.github.io/bankapp/</link>
-    <pubDate>Fri, 17 Mar 2023 14:52:15 &#43;0100</pubDate>
-    <author>Franco Salvucci</author>
-    <guid>https://francosalvucci14.github.io/bankapp/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/BankApp/BankLogo.jpg" referrerpolicy="no-referrer">
-            </div>Idea The idea came to me totally random, while I wasn&rsquo;t doing a damn thing 😂 I saw some videos on youtube and I decided to approach this &ldquo;challenge&rdquo; (let&rsquo;s put it in quotes because then we&rsquo;ll see that it&rsquo;s not a real challenge) The idea behind it is very simple, an interface (let&rsquo;s call it HOME) where there are links to other interfaces: Withdrawal, Deposit, User Shows and so on&hellip;]]></description>
-</item>
 </channel>
 </rss>

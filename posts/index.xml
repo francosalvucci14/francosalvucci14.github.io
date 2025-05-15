@@ -35,16 +35,6 @@ The idea is to create a scraper that goes to analyze and “study” the data on
 Currently, all the functions that are concerned with calculating which among the listings is the best, based on average salary, IRPEF and tc , are still under development]]></description>
 </item>
 <item>
-    <title>FlappyBird</title>
-    <link>https://francosalvucci14.github.io/flappybird/</link>
-    <pubDate>Wed, 29 Mar 2023 17:05:28 &#43;0200</pubDate>
-    <author>Franco Salvucci</author>
-    <guid>https://francosalvucci14.github.io/flappybird/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/FlappyBird/FlappyScreen.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item>
-<item>
     <title>University</title>
     <link>https://francosalvucci14.github.io/universit%C3%A0/</link>
     <pubDate>Mon, 20 Mar 2023 09:55:54 &#43;0100</pubDate>
@@ -53,16 +43,6 @@ Currently, all the functions that are concerned with calculating which among the
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/Universit%c3%a0/TorVergata.png" referrerpolicy="no-referrer">
             </div>The university The difficulties Thoughts and advice ]]></description>
-</item>
-<item>
-    <title>BankApp</title>
-    <link>https://francosalvucci14.github.io/bankapp/</link>
-    <pubDate>Fri, 17 Mar 2023 14:52:15 &#43;0100</pubDate>
-    <author>Franco Salvucci</author>
-    <guid>https://francosalvucci14.github.io/bankapp/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/BankApp/BankLogo.jpg" referrerpolicy="no-referrer">
-            </div>Idea The idea came to me totally random, while I wasn&rsquo;t doing a damn thing 😂 I saw some videos on youtube and I decided to approach this &ldquo;challenge&rdquo; (let&rsquo;s put it in quotes because then we&rsquo;ll see that it&rsquo;s not a real challenge) The idea behind it is very simple, an interface (let&rsquo;s call it HOME) where there are links to other interfaces: Withdrawal, Deposit, User Shows and so on&hellip;]]></description>
 </item>
 </channel>
 </rss>
