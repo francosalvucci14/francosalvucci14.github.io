@@ -5,7 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <title>Tesi - Acr0nim0 Blog</title><meta name="Description" content="Acr0nim0 Blog"><meta property="og:title" content="Tesi" />
-<meta property="og:description" content="Tesi TODO" />
+<meta property="og:description" content="Abstract Il mio lavoro di tesi triennale è incentrato su una particolare classe di grafi, ovvero i grafi temporali. Un grafo temporale $G=(V,E)$ è un grafo dove ad ogni arco $(u,v)\in E$ viene associata una lista di timestamp, che vanno ad indicare gli istanti di tempo in cui l&rsquo;arco risulta essere attivo.
+Il mio lavoro è stato quello di trovare un algoritmo efficiente che risolva il problema della Temporal Connectivity, ovvero determinare se un dato grafo temporale con topologia ad albero risulta essere temporalemente connesso oppure no." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://francosalvucci14.github.io/it/tesi_triennale/" /><meta property="og:image" content="https://francosalvucci14.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2025-04-22T17:28:38+02:00" />
@@ -15,7 +16,8 @@
 <meta name="twitter:image" content="https://francosalvucci14.github.io/logo.png"/>
 
 <meta name="twitter:title" content="Tesi"/>
-<meta name="twitter:description" content="Tesi TODO"/>
+<meta name="twitter:description" content="Abstract Il mio lavoro di tesi triennale è incentrato su una particolare classe di grafi, ovvero i grafi temporali. Un grafo temporale $G=(V,E)$ è un grafo dove ad ogni arco $(u,v)\in E$ viene associata una lista di timestamp, che vanno ad indicare gli istanti di tempo in cui l&rsquo;arco risulta essere attivo.
+Il mio lavoro è stato quello di trovare un algoritmo efficiente che risolva il problema della Temporal Connectivity, ovvero determinare se un dato grafo temporale con topologia ad albero risulta essere temporalemente connesso oppure no."/>
 <meta name="application-name" content="Acr0nim0 Blog">
 <meta name="apple-mobile-web-app-title" content="Acr0nim0 Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="icon" href="/images/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://francosalvucci14.github.io/it/tesi_triennale/" /><link rel="prev" href="https://francosalvucci14.github.io/it/database-project/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -28,7 +30,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/francosalvucci14.github.io\/it\/tesi_triennale\/"
-        },"image": ["https:\/\/francosalvucci14.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Tesi, Python, Algoritmi","wordcount":  2 ,
+        },"image": ["https:\/\/francosalvucci14.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Tesi, Python, Algoritmi","wordcount":  958 ,
         "url": "https:\/\/francosalvucci14.github.io\/it\/tesi_triennale\/","datePublished": "2025-04-22T17:28:38+02:00","dateModified": "2025-04-22T17:36:58+02:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "Franco Salvucci","logo": "https:\/\/francosalvucci14.github.io\/images\/user.png"},"author": {
@@ -108,8 +110,8 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Tesi</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/it/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Franco Salvucci</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2025-04-22">2025-04-22</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;2 parole&nbsp;
-                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;Un minuto&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2025-04-22">2025-04-22</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;958 parole&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;5 minuti&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
                     <span>Contenuti</span>
@@ -117,11 +119,247 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
-    <li><a href="#tesi">Tesi</a></li>
+    <li><a href="#abstract">Abstract</a></li>
+    <li><a href="#codice">Codice</a></li>
+    <li><a href="#prove-sperimentali">Prove Sperimentali</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
   </ul>
 </nav></div>
-            </div><div class="content" id="content"><h1 id="tesi">Tesi</h1>
-<p>TODO</p>
+            </div><div class="content" id="content"><h1 id="abstract">Abstract</h1>
+<p>Il mio lavoro di tesi triennale è incentrato su una particolare classe di grafi, ovvero i <strong>grafi temporali</strong>.<br/>
+Un grafo temporale $G=(V,E)$ è un grafo dove ad ogni arco $(u,v)\in E$ viene associata una lista di <strong>timestamp</strong>, che vanno ad indicare gli istanti di tempo in cui l&rsquo;arco risulta essere attivo.<br>
+Il mio lavoro è stato quello di trovare un algoritmo <strong>efficiente</strong> che risolva il problema della <strong>Temporal Connectivity</strong>, ovvero determinare se un dato grafo temporale con topologia ad albero risulta essere <strong>temporalemente connesso</strong> oppure no.<br>
+<em>Con temporalmente connesso si intende che per ogni coppia di nodi, deve esistere un percorso temporale valido</em>.<br>
+L&rsquo;obiettivo di questa tesi è stato quello di trovare un algoritmo molto più efficiente del Näive, che risulta avere una complessità $$O(nM^2)$$ con $M$=numero totale di timestamp, in modo da risolvere questo problema.<br>
+Il mio algoritmo sfrutta le idee di <em>Earliest-Arrival</em> e <em>Latest-Departure</em>, e la sua complessità risulta essere $$O(n\log(L))$$ con $L=\max_{v}|L_v|$ e $L_v$=timestamp sull&rsquo;arco $(v,p(v))$</p>
+<h1 id="codice">Codice</h1>
+<p>Di seguito viene riportato il codice del mio algoritmo, che ha una complessità <strong>poly-log</strong>.<br></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span><span class="lnt">62
+</span><span class="lnt">63
+</span><span class="lnt">64
+</span><span class="lnt">65
+</span><span class="lnt">66
+</span><span class="lnt">67
+</span><span class="lnt">68
+</span><span class="lnt">69
+</span><span class="lnt">70
+</span><span class="lnt">71
+</span><span class="lnt">72
+</span><span class="lnt">73
+</span><span class="lnt">74
+</span><span class="lnt">75
+</span><span class="lnt">76
+</span><span class="lnt">77
+</span><span class="lnt">78
+</span><span class="lnt">79
+</span><span class="lnt">80
+</span><span class="lnt">81
+</span><span class="lnt">82
+</span><span class="lnt">83
+</span><span class="lnt">84
+</span><span class="lnt">85
+</span><span class="lnt">86
+</span><span class="lnt">87
+</span><span class="lnt">88
+</span><span class="lnt">89
+</span><span class="lnt">90
+</span><span class="lnt">91
+</span><span class="lnt">92
+</span><span class="lnt">93
+</span><span class="lnt">94
+</span><span class="lnt">95
+</span><span class="lnt">96
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">visit_dfs</span><span class="p">(</span><span class="n">tree</span><span class="p">,</span> <span class="n">node</span><span class="p">,</span> <span class="n">EA_max</span><span class="p">,</span> <span class="n">LD_max</span><span class="p">):</span>
+    <span class="s2">&#34;&#34;&#34;
+</span><span class="s2">    Visita DFS unificata che, per ogni nodo v:
+</span><span class="s2">      - Se v è foglia, imposta EA_max[v] = min(L_v) e LD_max[v] = max(L_v)
+</span><span class="s2">      - Altrimenti, visita ricorsivamente i figli, raccoglie le coppie (EA_max, LD_max)
+</span><span class="s2">        e controlla la consistenza degli intervalli secondo lo pseudocodice.
+</span><span class="s2">      - Infine, calcola EA = max_{u in child(v)} EA_max[u] e LD = min_{u in child(v)} LD_max[u],
+</span><span class="s2">        e determina NextEA e NextLD in L_v (lista dei pesi associati a v) tramite funzioni di
+</span><span class="s2">        ricerca (binary_search e binary_search_leq).
+</span><span class="s2">
+</span><span class="s2">    Se per qualche ragione il calcolo fallisce (NextEA o NextLD == -1), imposta EA_max[v] e
+</span><span class="s2">    LD_max[v] a infinito e ritorna False, altrimenti ritorna True.
+</span><span class="s2">
+</span><span class="s2">    Parametri:
+</span><span class="s2">      - tree: grafo orientato rappresentante l&#39;albero.
+</span><span class="s2">      - node: nodo corrente.
+</span><span class="s2">      - EA_max: dizionario per memorizzare i valori EA_max per ciascun nodo.
+</span><span class="s2">      - LD_max: dizionario per memorizzare i valori LD_max per ciascun nodo.
+</span><span class="s2">
+</span><span class="s2">    Ritorna:
+</span><span class="s2">      - True se la connettività temporale risulta consistente lungo il ramo, False altrimenti.
+</span><span class="s2">    &#34;&#34;&#34;</span>
+    <span class="c1"># L_v: vettore dei pesi associato al nodo corrente</span>
+    <span class="n">weights</span> <span class="o">=</span> <span class="n">tree</span><span class="o">.</span><span class="n">nodes</span><span class="p">[</span><span class="n">node</span><span class="p">]</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&#34;weight&#34;</span><span class="p">,</span> <span class="p">[])</span>
+    <span class="n">children</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">tree</span><span class="o">.</span><span class="n">successors</span><span class="p">(</span><span class="n">node</span><span class="p">))</span>
+
+    <span class="c1"># Caso base: foglia</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">children</span><span class="p">:</span>
+        <span class="n">EA_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="nb">min</span><span class="p">(</span><span class="n">weights</span><span class="p">)</span>
+        <span class="n">LD_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="nb">max</span><span class="p">(</span><span class="n">weights</span><span class="p">)</span>
+        <span class="k">return</span> <span class="kc">True</span>
+
+    <span class="c1"># Inizializza il vettore D_v per raccogliere le coppie dai figli</span>
+    <span class="n">D_v</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">child</span> <span class="ow">in</span> <span class="n">children</span><span class="p">:</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">visit_dfs</span><span class="p">(</span><span class="n">tree</span><span class="p">,</span> <span class="n">child</span><span class="p">,</span> <span class="n">EA_max</span><span class="p">,</span> <span class="n">LD_max</span><span class="p">):</span>
+            <span class="k">return</span> <span class="kc">False</span>
+        <span class="c1"># Se uno dei figli ha valori infiniti, la connettività non è rispettata</span>
+        <span class="k">if</span> <span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="o">==</span> <span class="nb">float</span><span class="p">(</span><span class="s2">&#34;inf&#34;</span><span class="p">)</span> <span class="ow">or</span> <span class="n">LD_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="o">==</span> <span class="nb">float</span><span class="p">(</span><span class="s2">&#34;inf&#34;</span><span class="p">):</span>
+            <span class="k">return</span> <span class="kc">False</span>
+        <span class="n">D_v</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">],</span> <span class="n">LD_max</span><span class="p">[</span><span class="n">child</span><span class="p">]))</span>
+
+    <span class="c1"># Se sono presenti almeno due figli, eseguo il controllo di consistenza</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">D_v</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">:</span>
+        <span class="c1"># Trovo i due minimi rispetto a EA_max:</span>
+        <span class="c1"># (min1, ld1) è la coppia con EA_min più piccolo e (min2, ld2) la seconda</span>
+        <span class="n">sorted_intervals</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">D_v</span><span class="p">,</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+        <span class="n">minEA</span><span class="p">,</span> <span class="n">ld1</span> <span class="o">=</span> <span class="n">sorted_intervals</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+        <span class="n">secondEA</span><span class="p">,</span> <span class="n">ld2</span> <span class="o">=</span> <span class="n">sorted_intervals</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+        <span class="c1"># Per ogni figlio, effettuo il controllo:</span>
+        <span class="k">for</span> <span class="n">child</span> <span class="ow">in</span> <span class="n">children</span><span class="p">:</span>
+            <span class="k">if</span> <span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="o">==</span> <span class="n">minEA</span><span class="p">:</span>
+                <span class="c1"># Se il figlio con EA_min ha un EA_max maggiore di ld2, la condizione non è soddisfatta</span>
+                <span class="k">if</span> <span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">ld2</span><span class="p">:</span>
+                    <span class="k">return</span> <span class="kc">False</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="c1"># Gli altri devono rispettare EA_max[u] &lt;= ld1</span>
+                <span class="k">if</span> <span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">ld1</span><span class="p">:</span>
+                    <span class="k">return</span> <span class="kc">False</span>
+    <span class="c1"># Se c&#39;è un solo figlio non serve ulteriore controllo</span>
+
+    <span class="k">if</span> <span class="n">node</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+        <span class="k">return</span> <span class="kc">True</span>
+
+    <span class="c1"># Calcolo EA e LD aggregati dai figli</span>
+    <span class="n">EA</span> <span class="o">=</span> <span class="nb">max</span><span class="p">(</span><span class="n">EA_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="k">for</span> <span class="n">child</span> <span class="ow">in</span> <span class="n">children</span><span class="p">)</span>
+    <span class="n">LD</span> <span class="o">=</span> <span class="nb">min</span><span class="p">(</span><span class="n">LD_max</span><span class="p">[</span><span class="n">child</span><span class="p">]</span> <span class="k">for</span> <span class="n">child</span> <span class="ow">in</span> <span class="n">children</span><span class="p">)</span>
+
+    <span class="c1"># Calcola NextEA e NextLD usando la lista dei pesi L_v e le funzioni di ricerca</span>
+    <span class="c1"># Si assume che &#39;binary_search&#39; trovi il successore di EA in weights,</span>
+    <span class="c1"># e &#39;binary_search_leq&#39; trovi il predecessore (o il più vicino minore uguale) di LD.</span>
+    <span class="n">NextEA</span> <span class="o">=</span> <span class="n">binary_search</span><span class="p">(</span><span class="n">weights</span><span class="p">,</span> <span class="n">EA</span><span class="p">)</span> <span class="k">if</span> <span class="n">weights</span> <span class="k">else</span> <span class="o">-</span><span class="mi">1</span>
+    <span class="n">NextLD</span> <span class="o">=</span> <span class="n">binary_search_leq</span><span class="p">(</span><span class="n">weights</span><span class="p">,</span> <span class="n">LD</span><span class="p">)</span> <span class="k">if</span> <span class="n">weights</span> <span class="k">else</span> <span class="o">-</span><span class="mi">1</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="n">NextEA</span> <span class="o">==</span> <span class="o">-</span><span class="mi">1</span> <span class="ow">or</span> <span class="n">NextLD</span> <span class="o">==</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="ow">and</span> <span class="n">node</span> <span class="o">!=</span> <span class="mi">1</span><span class="p">:</span>
+        <span class="n">EA_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="s2">&#34;inf&#34;</span><span class="p">)</span>
+        <span class="n">LD_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="s2">&#34;inf&#34;</span><span class="p">)</span>
+        <span class="k">return</span> <span class="kc">False</span>
+    <span class="k">elif</span> <span class="n">NextEA</span> <span class="o">!=</span> <span class="o">-</span><span class="mi">1</span> <span class="ow">and</span> <span class="n">NextLD</span> <span class="o">!=</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+        <span class="n">EA_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="n">NextEA</span>
+        <span class="n">LD_max</span><span class="p">[</span><span class="n">node</span><span class="p">]</span> <span class="o">=</span> <span class="n">NextLD</span>
+        <span class="k">return</span> <span class="kc">True</span>
+
+<span class="k">def</span> <span class="nf">algoritmo_unificato</span><span class="p">(</span><span class="n">T</span><span class="p">):</span>
+    <span class="s2">&#34;&#34;&#34;
+</span><span class="s2">    Algoritmo unificato per la verifica della connettività temporale di un albero.
+</span><span class="s2">
+</span><span class="s2">    T: grafo orientato rappresentante l&#39;albero.
+</span><span class="s2">    &#34;&#34;&#34;</span>
+    <span class="n">n</span> <span class="o">=</span> <span class="n">T</span><span class="o">.</span><span class="n">number_of_nodes</span><span class="p">()</span>
+    <span class="n">EA_max</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="p">(</span><span class="n">n</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="n">LD_max</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="p">(</span><span class="n">n</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">visit_dfs</span><span class="p">(</span><span class="n">T</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">EA_max</span><span class="p">,</span> <span class="n">LD_max</span><span class="p">):</span>
+        <span class="k">return</span> <span class="s2">&#34;L&#39;albero è temporalmente connesso&#34;</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span> <span class="s2">&#34;L&#39;albero non è temporalmente connesso&#34;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Da come si può vedere, il mio algoritmo non è altro che una visita DFS modificata (possiamo chiamarla senza perdità di generalità <strong>visita DFS Temporale</strong>) che sfrutta i principi di EA e LD.<br>
+Sfrutta anche un&rsquo;euristica particolare, ovvero preso $N(v)=$vicinato di $v$ se $$EA_{max}[v]\leq\min_{w\in N(v)}LD_{max}[w]$$Allora posso affermare che il sottoalbero radicato in $v$ risulta essere temporalmente connesso.<br>
+Questo controllo viene propagato verso l&rsquo;alto fino ad arrivare alla radice.<br>È li che verrà ritornato <strong>True</strong> o <strong>False</strong>, a seconda del risultato del check visto precedentemente.</p>
+<h1 id="prove-sperimentali">Prove Sperimentali</h1>
+<p>Ecco alcuni test condotti su alberi generati casualmente.<br>
+Essi confrontano i tempi medi di esecuzione del mio algoritmo e del Näive.<bt>
+<figure><img src="/images/Thesis/Test_25_2000n.png"/><figcaption>
+            <h4>Test con 1000 nodi e $L_v = 25$</h4>
+        </figcaption>
+</figure>
+<br/>
+<figure><img src="/images/Thesis/Test_70_2000n.png"/><figcaption>
+            <h4>Test con 1000 nodi e $L_v = 70$</h4>
+        </figcaption>
+</figure>
+<br/>
+<figure><img src="/images/Thesis/Test_300_1000n.png"/><figcaption>
+            <h4>Test con 1000 nodi e $L_v = 300$</h4>
+        </figcaption>
+</figure>
+<br/>
+<figure><img src="/images/Thesis/Test_n2_2000n.png"/><figcaption>
+            <h4>Test con 1000 nodi e $L_v = n^2$</h4>
+        </figcaption>
+</figure>
+<br/></p>
+<h1 id="disclaimer">Disclaimer</h1>
+<p>Chiunque fosse interessato a leggere per intero la mia tesi è pregato di inviarmi una mail all&rsquo;indirizzo <strong><a href="mailto:franco.salvucci@alumni.uniroma2.eu" rel="">franco.salvucci@alumni.uniroma2.eu</a></strong></p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
