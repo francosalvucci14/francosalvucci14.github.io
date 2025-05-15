@@ -8,18 +8,16 @@ Sono sempre stato appassionato del mondo della programmazione e dell'informatica
 
 Adoro sperimentare nuove tecnologie (come questa qui, ovvero Hugo) e adoro cimentarmi sempre in nuove sfide di progettazione/programmazione/ecc... 
 
-Attualmente sono particolarmente interessato al mondo degli Algoritmi, infatti probabilmente focalizzerò la mia tesi su questo (ma per ora tralasciamo questo dettaglio, c'è ancora un bel pò di tempo per pensare a quello...)<br/>
-
 **P.S** :  Dai un'occhiata al post che ho fatto sull'università, dove racconto la mia esperienza personale, i miei dubbi, le mie paure e i miei consigli per i ragazzi appena iscritti -> [Università]({{< ref "posts/Università.it.md" >}})
 
 Non so cosa altro dire, quindi direi che va bene così
 
-# Laurea
-
-Mi sono Laureato con votazione 100/110 in Informatica Triennale presso l'Università degli Studi di Roma Tor Vergata.<br/>
-Se vuoi leggere la mia tesi vedi qui :
-- La mia repository su GitHub -> [Tesi(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
-- Il mio post su questo sito -> [Tesi]({{< ref "posts/Tesi_Triennale.it.md" >}})
+# Lauree
+- Laurea Triennale : mi sono Laureato con voto 100/110 in Informatica Triennale presso l'Università degli Studi di Roma Tor Vergata.<br/>
+    - Se vuoi leggere la mia tesi vedi qui :
+        - La mia repository su GitHub -> [Tesi(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
+        - Il mio post su questo sito -> [Tesi]({{< ref "posts/Tesi_Triennale.it.md" >}})
+- Laurea Magistrale : In corso
 
 # I miei badge
 

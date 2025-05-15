@@ -10,17 +10,16 @@ I have always been passionate about the world of programming and information tec
 I love experimenting with new technologies (like this one here, aka Hugo)
 and always try new design/programming/etc challenges...
 
-Currently I am particularly interested in the world of Algorithms, in fact I will probably focus my thesis on this (but for now let's leave out this detail, there's still a lot of time to think about that...)<br/>
 **P.S** : Take a look at the post I made on university, where I tell my personal experience, my doubts, my fears and my advice for newly enrolled students -> [University]({{< ref "posts/Università.md" >}})
 
 I don't know what else to say, so I'd say that's okay
 
-# Degree
-
-I graduated with a 100/110 grade in Three-year Computer Science from the University of Rome Tor Vergata.<br/>
-If you want to read my thesis see here :
-- My GitHub repository here -> [Thesis(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
-- My post on this website -> [Thesis]({{< ref "posts/Tesi_Triennale.en.md" >}})
+# Degree's
+- Bachelor's Degree : I graduated with a 100/110 grade in Computer Science from the University of Rome Tor Vergata.<br/>
+    - If you want to read my thesis see here :
+        - My GitHub repository here -> [Thesis(GitHub)](https://github.com/francosalvucci14/TesiTriennale)
+        - My post on this website -> [Thesis]({{< ref "posts/Tesi_Triennale.en.md" >}})
+- Master's Degree : On-Going
 
 # My Badges
 
